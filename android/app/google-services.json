@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "331928022776",
+    "project_id": "point-of-sales-d837c",
+    "storage_bucket": "point-of-sales-d837c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331928022776:android:fea5747d934aa44c1a950d",
+        "android_client_info": {
+          "package_name": "com.example.rnh_pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331928022776-ior6c47tg5auk883si12mrkj49ansan4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNl56d6IAMXYQ7srbtVxQ2AjqtJ_UHCLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331928022776-ior6c47tg5auk883si12mrkj49ansan4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331928022776-vh27oemspvab9kmsm105nfegtpesodoi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rnhPos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
